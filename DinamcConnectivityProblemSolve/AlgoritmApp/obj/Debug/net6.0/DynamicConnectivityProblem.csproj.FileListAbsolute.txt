@@ -1,0 +1,14 @@
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\bin\Debug\net6.0\DynamicConnectivityProblem.exe
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\bin\Debug\net6.0\DynamicConnectivityProblem.deps.json
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\bin\Debug\net6.0\DynamicConnectivityProblem.runtimeconfig.json
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\bin\Debug\net6.0\DynamicConnectivityProblem.dll
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\bin\Debug\net6.0\DynamicConnectivityProblem.pdb
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\DynamicConnectivityProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\DynamicConnectivityProblem.AssemblyInfoInputs.cache
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\DynamicConnectivityProblem.AssemblyInfo.cs
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\DynamicConnectivityProblem.csproj.CoreCompileInputs.cache
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\DynamicConnectivityProblem.dll
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\refint\DynamicConnectivityProblem.dll
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\DynamicConnectivityProblem.pdb
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\DynamicConnectivityProblem.genruntimeconfig.cache
+D:\makaleler\DinamcConnectivityProblemSolve\AlgoritmApp\obj\Debug\net6.0\ref\DynamicConnectivityProblem.dll
